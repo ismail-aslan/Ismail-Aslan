@@ -10,9 +10,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=1aslan1ismail@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismailaslan-1/)
 
-<p align="center">![al](https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true) </p>
+![al](https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true) 
 
-<p style="text-align:center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&show_icons=true&theme=onedark)</p><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&show_icons=true&theme=onedark)<br>
 
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
 <br>
