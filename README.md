@@ -15,4 +15,4 @@
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ismailaslan-1/)<br>
 
-![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})(1aslan1ismail@gmail.com)
+[![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})](1aslan1ismail@gmail.com)
