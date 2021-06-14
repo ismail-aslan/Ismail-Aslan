@@ -12,9 +12,9 @@
 
 ![al](https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true) 
 
-![Ismail' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko)
-<div style="margin:50rem">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko" style="display: block;text-align: center;"> 
+![Ismail' GitHub stats](https:///github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko)
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko" style="display: block;"> 
 </div>
 
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
