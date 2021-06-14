@@ -12,7 +12,7 @@
 
 ![al](https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true) 
 
-
+<img src="https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true" style="width:100%">
 <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko" style="width:100%"> 
 
 
