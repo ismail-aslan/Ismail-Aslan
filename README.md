@@ -11,7 +11,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismailaslan-1/)
 
 <img src="https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true">
-<img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko" align="center"> 
 
 
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
