@@ -12,9 +12,8 @@
 
 ![al](https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&show_icons=true&theme=onedark)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ismail' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=radical)
+
 
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
 <br>
