@@ -12,7 +12,7 @@
 
 ![al](https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true) 
 
-![Ismail' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=radical)
+![Ismail' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko)
 
 
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
