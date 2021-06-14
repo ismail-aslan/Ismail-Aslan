@@ -13,6 +13,7 @@
 ![al](https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&show_icons=true&theme=onedark)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
 <br>
