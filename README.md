@@ -12,8 +12,8 @@
 
 ![al](https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true) 
 
-<div style="margin: auto;width: fit-content;">
-<img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko" > 
+<div >
+<img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko" style="margin: auto;width: fit-content;"> 
 </div>
 
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
