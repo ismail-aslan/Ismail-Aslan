@@ -14,7 +14,7 @@
 
 ![Ismail' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko)
 <div style="margin:50rem">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko" style="display:block"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko" style="display: block;text-align: center;"> 
 </div>
 
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
