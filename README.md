@@ -12,7 +12,7 @@
 
 <img src="https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true">
 <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko" > 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Aslan&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Aslan&layout=compact&theme=merko" />
 
 
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
