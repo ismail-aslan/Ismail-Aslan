@@ -11,13 +11,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismailaslan-/)
 
 <img src="https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true">
-<img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&count_private=true&show_icons=true&theme=merko" > 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Aslan&layout=compact&theme=merko" />
 
 
-![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
+
 <br>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismail-Aslan&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Aslan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
