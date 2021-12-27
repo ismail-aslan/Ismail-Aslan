@@ -17,4 +17,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ismail-Aslan)
 <br>
-
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Ismail-Aslan&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismail-Aslan&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Aslan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
