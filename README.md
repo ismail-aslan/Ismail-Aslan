@@ -17,4 +17,4 @@
 <br>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Aslan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismail-Aslan&theme=chartreuse-dark" alt="my commit status" width="49%" /> </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismail-Aslan&theme=chartreuse-dark" alt="my commit status" height="100%" width="49%" /> </div>
