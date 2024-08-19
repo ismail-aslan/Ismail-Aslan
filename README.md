@@ -9,7 +9,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=ismailaslan1097@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismailaslan-/)
 
-<p align="center"><img src="https://github.com/Ismail-Aslan/Ismail-Aslan/blob/main/ss.png?raw=true"></p>
+## 💻 My Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,yarn,react,next,electron,redux,aws,babel,bash,powershell,git,gitlab,github,tailwind,firebase,cloudflare,codepen,devto,discord,bots,django,flask,python,rabbitmq,docker,elasticsearch,heroku,linux,windows,ubuntu,nginx,materialui,postgres,redis,mongodb,sequelize,postman,nestjs,figma,notion,regex,sass,stackoverflow,styledcomponents,vercel,vite&perline=18&theme=light"/>
+</p>
 
 
 
