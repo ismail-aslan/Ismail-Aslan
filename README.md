@@ -12,7 +12,10 @@
 ## 💻 My Tech Stack:
 
 <p align="center">
+  <a href="https://ismailaslan.me">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,yarn,react,next,electron,redux,aws,babel,bash,powershell,git,gitlab,github,tailwind,firebase,cloudflare,codepen,devto,discord,bots,django,flask,python,rabbitmq,docker,elasticsearch,heroku,linux,windows,ubuntu,nginx,materialui,postgres,redis,mongodb,sequelize,postman,nestjs,figma,notion,regex,sass,stackoverflow,styledcomponents,vercel,vite&perline=18&theme=light"/>
+  </a>
+
 </p>
 
 
